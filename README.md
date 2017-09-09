@@ -11,5 +11,5 @@ swiftc filename.swift
 ```
 
 ## Variables
-let ---> immutable
+let ---> immutable  
 var ---> mutable
